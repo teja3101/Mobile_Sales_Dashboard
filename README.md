@@ -48,3 +48,5 @@ The goal of this dashboard is to provide a single, interactive view of mobile sa
 -Customer ratings provide insights into product quality and service satisfaction, highlighting areas for improvement.
 
 7. Screenshot / Demo
+Dashboard Preview:
+https://github.com/teja3101/Mobile_Sales_Dashboard/blob/main/Mobile%20Sales.png
